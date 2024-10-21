@@ -12,8 +12,8 @@ const Header = () => {
                 </div>
                 
                 <div className=' m-auto w-40 h-full '>
-                    <h1 className='border-b border-blue-950 shadow-sm shadow-blue-400 font-bold p-2 text-center  dark:text-slate-200 rounded-b-lg'>05/10/2024</h1>
-                    <h1 className='border-b border-blue-950 w-32 pb-1 m-auto shadow-sm shadow-blue-800 font-bold text-center  dark:text-slate-200 rounded-b-lg'>Saturday</h1>
+                    <h1 className='border-b border-blue-950 shadow-sm shadow-blue-400 font-bold p-2 text-center   rounded-b-lg'>05/10/2024</h1>
+                    <h1 className='border-b border-blue-950 w-32 pb-1 m-auto shadow-sm shadow-blue-800 font-bold text-center  rounded-b-lg'>Saturday</h1>
 
                     {/* <h1 className='shadow-sm shadow-blue-400 font-bold p-2 text-center bg-[#2D318A] text-slate-200 rounded-b-lg'>05/10/2024</h1>
                     <h1 className='w-32 pb-1 m-auto shadow-sm shadow-blue-800 font-bold text-center bg-[#4E51A1] text-slate-200 rounded-b-lg'>Saturday</h1> */}
